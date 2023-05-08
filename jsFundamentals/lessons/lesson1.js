@@ -13,6 +13,13 @@ console.log(age, sex)
 age = "26"
 console.log(age, sex)
 
-//Constants
+//Constants - Value of a constant can't be changed during runtime
 const occupation = "engineer";
 console.log(occupation)
+
+//DataTypes
+var middleName = 'Bhalchandra'  //string
+var number = 12                 //number
+var isMarried = false           //boolean
+var noValue = null              //null
+var numberOfCarsInWorld = undefined   //undefined
