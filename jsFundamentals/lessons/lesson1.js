@@ -14,6 +14,7 @@ age = "26"
 console.log(age, sex)
 
 //Constants - Value of a constant can't be changed during runtime
+//Constants - Value of a constant can't be changed during runtime
 const occupation = "engineer";
 console.log(occupation)
 
