@@ -18,6 +18,7 @@ console.log(`${customer.firstName} ${customer['lastName']}`);  //Using Interpola
 //Arrays
 
 var car = ['Tesla', 'Tata', 'Toyota']
+car[0] = 'BMW'      //Indexing
 console.log(car);
 
 
@@ -28,4 +29,5 @@ var newCustomer = {
     lastName: 'Doe',
     car: ['Tesla', 'Tata', 'Toyota']
 }
+newCustomer.car[0] = 'Suzuki'
 console.log(newCustomer);
