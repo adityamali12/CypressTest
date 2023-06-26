@@ -1,3 +1,5 @@
+//Concat
+
 var price = 50
 var product = "Bicycle"
 var messageToPrint1 = "The value of this "+product+" is "+price+" dollars"      //Concatination
