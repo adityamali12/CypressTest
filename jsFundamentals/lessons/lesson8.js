@@ -7,7 +7,7 @@ function helloOne(){
 }
 
 //Anonyms Function
-//Anonyms function can be called before or after the declaration
+//Anonyms function can not be called before the declaration
 var helloTwo = function(){
     console.log('Hello Two!');
 }
